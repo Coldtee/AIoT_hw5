@@ -32,4 +32,8 @@
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/5.png)
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/6.png)
 
+## Step 4 : 將模型導入程式
+將我們訓練後的成果導入專案內，並上傳至github
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/7.png)
+
 
