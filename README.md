@@ -21,5 +21,6 @@
 理解老師程式碼後，使用老師提供的程式碼測試，並先上傳至github確保操作無誤。
 
 執行結果:
-![]()
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/1.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/2.png)
 
