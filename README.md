@@ -41,5 +41,6 @@
 執行結果:
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/8.png)
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/9.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/10.gif)
 
 
