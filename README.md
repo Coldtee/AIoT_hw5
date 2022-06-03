@@ -24,3 +24,12 @@
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/1.png)
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/2.png)
 
+## Step 3 : model training
+利用老師L12給的資料( training.csv, training600.csv )訓練模型(在Colab上)。
+訓練過程:
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/3.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/4.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/5.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/6.png)
+
+
