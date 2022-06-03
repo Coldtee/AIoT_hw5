@@ -36,4 +36,10 @@
 將我們訓練後的成果導入專案內，並上傳至github
 ![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/7.png)
 
+## Step 5 : 完成
+完成囉！
+執行結果:
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/8.png)
+![alt text](https://github.com/Coldtee/AIoT_hw5/blob/main/img/9.png)
+
 
